@@ -3,7 +3,7 @@
 check azure datafactory job result
 
 ### prerequisites
-This script uses theses libs : REST::Client, Data::Dumper, DateTime, Getopt::Long, JSON, 
+This script uses theses libs : REST::Client, Data::Dumper, DateTime, Getopt::Long, JSON, Switch
 
 to install them you can use cpan :
 
