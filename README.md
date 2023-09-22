@@ -44,7 +44,7 @@ sample  :
 ```bash
 check_azdatafactorypipelinerun.pl --tenantid=<TENANTID> --clientid=<CLIENTID> --subid=<SUBID> --clientsecret=<CLIENTSECRET> --datafactory=MyDataFactory --Pipeline="MyPipeline" --Timeinterval=740
 ```
-you may gat  :
+you may get  :
 
 ```bash
 Ok : pipelineName MyPipeline Succeeded runStart : 2021-05-26T08:30:00.0161584Z runEnd : 2021-05-26T12:00:09.7422132Z
